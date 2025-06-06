@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Hamish Blair"
   pronouns         : # example: "she/her"  
-  bio              : "Math PhD student interested in computational structural biology and Cryo-EM"
+  bio              : "Math PhD -- Comutational aspects of RNA biology -- Cryo-EM"
   location         : "Stanford"
   employer         : "Stanford University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=w0d23SkAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-0091-2032"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Blair+Hamish[Author]"
   researchgate     : # URL
 
   # Repositories and software development
