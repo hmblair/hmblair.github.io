@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-For a concise summary see [my CV]("http://hmblair.github.io/files/cv.pdf").
+For a concise summary see [my CV](files/cv.pdf).
